@@ -1,0 +1,68 @@
+body {
+    background-image: url("jpgs/parchment.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+font {
+    font-family: Thasadith, sans-serif;
+}
+a {
+    color: orangered;
+    text-shadow: 1px 1px black;
+}
+a:hover {
+    color: white;
+}
+i {
+    color: ghostwhite;
+    text-shadow: 1px 1px black;
+}
+h1 {
+    color: dimgrey;
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+h2 {
+    color: orangered;
+    text-shadow: 1px 1px black;
+}
+h3 {
+    color: ghostwhite;
+    text-shadow: 1px 1px black;
+}
+h4 {
+    color: grey;
+    text-shadow: 1px 1px black;
+}
+h5 {
+    color: grey;
+    text-shadow: 1px 1px black;
+}
+form {
+    color: orangered;
+    text-shadow: 1px 1px black;
+}
+textarea {
+    outline: none;
+    border: none;
+    box-shadow: 0 0 10px black;
+    background-color: transparent;
+    width: 800px;
+    height: 300px;
+    font-size: large;
+    color: ghostwhite;
+}
+input {
+    outline: none;
+    border: 1px black;
+    box-shadow: 0 0 10px black;
+    background-color: transparent;
+    width: 200px;
+    height: 30px;
+    font-size: large;
+    color: orangered;
+}

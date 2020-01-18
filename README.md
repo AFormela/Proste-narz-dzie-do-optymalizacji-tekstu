@@ -1,1 +1,2 @@
-# Proste-narz-dzie-do-optymalizacji-tekstu
+# BYT-projekt
+Proste narzędzie do optymalizacji tekstu
